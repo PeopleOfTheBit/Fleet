@@ -1,8 +1,8 @@
 //
 //  main.m
-//  Fleet
+//  testDetectNeighbors
 //
-//  Created by Nicholas Beers on 2/15/14.
+//  Created by Nicholas Beers on 2/16/14.
 //  Copyright (c) 2014 com.peopleofthebit. All rights reserved.
 //
 
