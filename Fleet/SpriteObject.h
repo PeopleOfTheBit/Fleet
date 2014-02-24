@@ -7,15 +7,11 @@
 //
 
 #import <Foundation/Foundation.h>
+#import "MovableAndRotatable.h"
 @import SpriteKit;
 
-@interface SpriteObject : SKSpriteNode
+@interface SpriteObject : SKSpriteNode <MovableAndRotatable>
 
 @property (nonatomic, readonly) CFTimeInterval timeCreated;
-
-- (void) moveToPosition:(CGPoint) position;
-//- (void) moveByVelocity:(CGPoint) velocity;
-- (void) rotateTo:(CGPoint) position;
-//- (void) rotateBy:(CGFloat) angle;
 
 @end

@@ -85,6 +85,7 @@
 		0A6BCBB518BACD86000BD393 /* MathFunctions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MathFunctions.h; sourceTree = "<group>"; };
 		0A6BCBB618BACD86000BD393 /* SpriteObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SpriteObject.h; sourceTree = "<group>"; };
 		0A6BCBB718BACD86000BD393 /* SpriteObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SpriteObject.m; sourceTree = "<group>"; };
+		0A6E788218BBDB82009D9F03 /* MovableAndRotatable.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MovableAndRotatable.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -155,21 +156,22 @@
 				0A6BC6E618AFE461000BD393 /* Main_iPad.storyboard */,
 				0A6BC6E918AFE461000BD393 /* ViewController.h */,
 				0A6BC6EA18AFE461000BD393 /* ViewController.m */,
-				0A6BCBA118BACCDA000BD393 /* Fleet.h */,
-				0A6BCBA218BACCDA000BD393 /* Fleet.m */,
-				0A6BCBA318BACCDA000BD393 /* MyScene.h */,
-				0A6BCBA418BACCDA000BD393 /* MyScene.m */,
-				0A6BCBA518BACCDA000BD393 /* Ship.h */,
-				0A6BCBA618BACCDA000BD393 /* Ship.m */,
-				0A6BCBA718BACCDA000BD393 /* SpriteManager.h */,
-				0A6BCBA818BACCDA000BD393 /* SpriteManager.m */,
 				0A6BC70E18AFE490000BD393 /* MenuScene.h */,
 				0A6BC70F18AFE490000BD393 /* MenuScene.m */,
+				0A6BCBA318BACCDA000BD393 /* MyScene.h */,
+				0A6BCBA418BACCDA000BD393 /* MyScene.m */,
+				0A6BCBA718BACCDA000BD393 /* SpriteManager.h */,
+				0A6BCBA818BACCDA000BD393 /* SpriteManager.m */,
 				0A6BCBB318BACD86000BD393 /* FleetManager.h */,
 				0A6BCBB418BACD86000BD393 /* FleetManager.m */,
-				0A6BCBB518BACD86000BD393 /* MathFunctions.h */,
+				0A6BCBA118BACCDA000BD393 /* Fleet.h */,
+				0A6BCBA218BACCDA000BD393 /* Fleet.m */,
 				0A6BCBB618BACD86000BD393 /* SpriteObject.h */,
 				0A6BCBB718BACD86000BD393 /* SpriteObject.m */,
+				0A6BCBA518BACCDA000BD393 /* Ship.h */,
+				0A6BCBA618BACCDA000BD393 /* Ship.m */,
+				0A6E788218BBDB82009D9F03 /* MovableAndRotatable.h */,
+				0A6BCBB518BACD86000BD393 /* MathFunctions.h */,
 				0A6BC6F118AFE461000BD393 /* Images.xcassets */,
 				0A6BC6D818AFE461000BD393 /* Supporting Files */,
 			);

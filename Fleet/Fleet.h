@@ -7,10 +7,11 @@
 //
 
 #import <Foundation/Foundation.h>
+#import "MovableAndRotatable.h"
 
 @class Ship;
 
-@interface Fleet : NSObject
+@interface Fleet : NSObject <MovableAndRotatable>
 
 + (Fleet *) fleetWithLeadShip:(Ship *) ship;
 - (void) spawnNewShip;
